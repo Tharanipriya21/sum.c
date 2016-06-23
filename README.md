@@ -11,6 +11,5 @@ for(i=1;i<n;i++)
 sum=sum+i;
 }
 printf("sum of %d natural numbers is %d",n,sum);
-getch();
-}
+getch();}
 
