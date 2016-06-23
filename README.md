@@ -13,3 +13,4 @@ sum=sum+i;
 printf("sum of %d natural numbers is %d",n,sum);
 getch();
 }
+
